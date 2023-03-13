@@ -1,0 +1,4 @@
+Project optimizations
+	1. use enum in vehicle type
+	2. using map in user vehicle relationship(not very necessary)
+	3. ResponseEntity<>

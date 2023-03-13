@@ -1,0 +1,20 @@
+Register:
+{
+	"role": {
+		"id": 3
+	},
+	"name": "hitesh",
+	"email": "hitesh@gmail.com",
+	"phone": "9876543210",
+	"password": "pass"
+}
+
+{
+	"role": {
+		"id": 3
+	},
+	"name": "hitesh",
+	"email": "hitesh@gmail.com",
+	"phone": "9876543210",
+	"password": "pass"
+}

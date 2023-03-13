@@ -1,0 +1,72 @@
+// Register:
+{
+    "role": {
+        "id": 3
+    },
+    "name": "hitesh",
+    "email": "hitesh@gmail.com",
+    "phone": "9876543210",
+    "password": "pass"
+}
+
+{
+    "role": {
+        "id": 3
+    },
+    "name": "vrushabh",
+    "email": "vrushabh@gmail.com",
+    "phone": "9876542310",
+    "password": "pass"
+}
+//login
+{
+    "username": "hitesh@gmail.com",
+    "password": "pass"
+}
+
+{
+    "username": "vrushabh@gmail.com",
+    "password": "pass"
+}
+//station
+{
+    "registrationNumber": "1234",
+    "user": {
+        "id": "-16883235280x1.78c0728p26",
+        "role": {
+            "id": 3,
+            "role": "customer"
+        }
+    },
+    "latitude": 27.21,
+    "longitude": 21.24,
+    "stationName": "hitesh station",
+    "totalPoints" : 5
+}
+
+//available points 
+
+10001 100
+10002 100
+20002 200
+20003 200
+20004 200
+
+station -> id, location, Set<Chargingpoints>
+
+[
+    {
+        "stationid":100   ,
+        "location": 27.2    ,
+        "CharginPoints" : [ 10001, 10002
+
+        ]
+    },
+    {
+        "stationid":  200 ,
+        "location":     ,
+        "CharginPoints" : [20002, 20003, 20004
+
+        ]
+    }
+]
